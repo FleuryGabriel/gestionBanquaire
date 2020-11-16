@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.adaming</groupId>
-	<artifactId>firstProjetSpringBoot</artifactId>
+	<artifactId>gestionBanquaire</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>firstProjetSpringBoot</name>
