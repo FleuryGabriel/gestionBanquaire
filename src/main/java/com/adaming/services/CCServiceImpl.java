@@ -21,7 +21,7 @@ public class CCServiceImpl implements ICCService{
 
 	@Override
 	public CompteCourant findOne(Long id) {
-		return ccRep.findById(id).get();
+		return ccRep.getOne(id);
 	}
 
 	@Override
